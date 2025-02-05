@@ -11,4 +11,8 @@ public class Practice {
 		System.out.println("Second Pushing");
 	}
 
+	public void m1()
+	{
+		System.out.println("Practicing oull operation");
+	}
 }
