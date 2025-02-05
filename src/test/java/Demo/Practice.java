@@ -13,6 +13,9 @@ public class Practice {
 
 	public void m1()
 	{
-		System.out.println("Practicing oull operation");
+		System.out.println("Practicing pull operation");
+		System.out.println("create branch");
 	}
+	
+	
 }
