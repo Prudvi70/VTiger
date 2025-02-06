@@ -15,6 +15,8 @@ public class Practice {
 	{
 		System.out.println("Practicing pull operation");
 		System.out.println("create branch");
+		System.out.println("From ATE workspace");
+		System.out.println("From Selenium MB workspace");
 	}
 	
 	
